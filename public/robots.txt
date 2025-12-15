@@ -12,3 +12,8 @@ Allow: /
 
 User-agent: *
 Allow: /
+
+Sitemap: https://melhorescreatina.com.br/sitemap.xml
+
+# Melhores Creatina - Portal de Suplementação Esportiva
+# Conteúdo otimizado para Google Discover e indexação LLM
